@@ -21,7 +21,7 @@ Además, pueden afectar el rendimiento de la aplicación.
 ## Características
 Muestra una disposición de libros utilizando el componente BooksLayout.
 Muestra la vista de un libro específico utilizando el componente BookView cuando hay un libro activo.
-Permite al usuario agregar un nuevo libro mediante la función onClickNewBook.
+Permite al usuario agregar un nuevo libro mediante el botón add, editarlo y eliminarlo.
 Proporciona funcionalidad de autenticación utilizando la autenticación de Firebase.
 Utiliza Redux para la gestión del estado con acciones como login y startNewBook.
 Muestra un indicador de carga mientras se verifica el estado de autenticación con el componente CheckingAuth.
