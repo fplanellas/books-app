@@ -38,11 +38,12 @@ Clona el repositorio:
 git clone https://github.com/tu/repo.git
 ## Instala las dependencias:
 cd nombre-proyecto
+
 yarn install
 ## Inicia el servidor de desarrollo:
 yarn dev
 
-Abre tu navegador y ve a http://localhost:3000 para ver la aplicación en funcionamiento.
+Abre tu navegador y ve a la url que indique la terminal para ver la aplicación en funcionamiento.
 
 ## Uso
 El componente BooksApp sirve como punto de entrada de la aplicación. Renderiza la disposición principal y maneja las interacciones del usuario.
