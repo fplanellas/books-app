@@ -1,0 +1,17 @@
+
+.article {
+    position: absolute;
+    top: 2rem;
+    padding: 4rem;
+    left: 0;
+    z-index: 1000;
+    background: #E5E4E2;
+}
+.grid > div {
+    background: #cedad1;
+}
+
+.grid {
+    background: #cedad1;
+    height: calc(100vh - 80px);
+}
